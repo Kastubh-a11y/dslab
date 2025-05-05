@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/Language-C-blue.svg" />
   <img src="https://img.shields.io/badge/Experiments-11%2F11-brightgreen.svg" />
   <img src="https://img.shields.io/badge/Status-Completed-success.svg" />
-  <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/dsa-lab-c" />
-  <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/dsa-lab-c" />
+  <img src="https://img.shields.io/github/repo-size/Kastubh-a11y/dslab" />
+  <img src="https://img.shields.io/github/last-commit/Kastubh-a11y/dslab" />
 </p>
 
 ---
